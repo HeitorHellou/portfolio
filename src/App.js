@@ -30,7 +30,7 @@ const App = () => {
       <div className="row">
         <div className="col-md-4 bg-primary px-0">
           <img
-            src="/assets/Profile.jpg"
+            src={`${process.env.PUBLIC_URL}/assets/Profile.jpg`}
             alt="Profile picture"
             className="img-fluid"
           />
