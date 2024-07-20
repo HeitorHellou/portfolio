@@ -1,0 +1,12 @@
+// Override Bootstrap variables
+$primary:       #323131 !default; // Replace with your custom color
+$secondary:     #A5BFAC !default; // Replace with your custom color
+$success:       #A0A34D !default; // Replace with your custom color
+$info:          #DF5A93 !default; // Replace with your custom color
+$warning:       #F2B3CA !default; // Replace with your custom color
+$danger:        #e74c3c !default; // Replace with your custom color
+$light:         #ecf0f1 !default; // Replace with your custom color
+$dark:          #34495e !default; // Replace with your custom color
+
+// Import Bootstrap
+@import "~bootstrap/scss/bootstrap";

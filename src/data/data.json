@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Multimedia Programmer JR",
+        "company": "Inca Tecnologia",
+        "startDate": "09/2023",
+        "endDate": "06/2024",
+        "description": "Created and developed many educational applications, mainly 2D games built with Haxe and OpenFL, and mobile apps with Dart and Flutter."
+    },
+    {
+        "title": "Software Developer Intern",
+        "company": "Renault Group",
+        "startDate": "10/2020",
+        "endDate": "10/2022",
+        "description": "Developed and maintained systems used in all south america. Primarily build with C# and the .NET framework."
+    }
+]
